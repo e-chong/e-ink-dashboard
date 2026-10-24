@@ -1,0 +1,57 @@
+{
+ "version": 1,
+ "generated": "2026-10-24T14:30:00-07:00",
+ "current": "history",
+ "order": [
+  "recipe",
+  "news",
+  "watchlist",
+  "sports",
+  "sky",
+  "history",
+  "tides",
+  "art"
+ ],
+ "screens": {
+  "morning": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/morning.rgb565",
+   "sha256": "b68efdf158de2a0a9f63986007fd859217c0258c961c81e2a568058cf8676f91"
+  },
+  "cocktail": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/cocktail.rgb565",
+   "sha256": "c9eee9ab34ca7d48f4fb84a53999480542391fa42732542e2848e9a05e0e5402"
+  },
+  "recipe": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/recipe.rgb565",
+   "sha256": "4e7a38a998aca497ff6297e7a6eaddd944f0b94658dc340f2e894de1cbf99289"
+  },
+  "news": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/news.rgb565",
+   "sha256": "92aa7932355d80c365db4e7053d67b64b6ea95a5412fae3f483c229102f48e62"
+  },
+  "watchlist": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/watchlist.rgb565",
+   "sha256": "747184f5ffb1412c74de9cfaad3542b4b3954ed3ca0cfb6498a36ba4f5a546ae"
+  },
+  "sports": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/sports.rgb565",
+   "sha256": "fa5ce7f58eb73791c229fca630a33d8efee3bd694e986c741afafdbd3418eefa"
+  },
+  "sky": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/sky.rgb565",
+   "sha256": "655aa29c62dd1eb5a3ec1a567fd83a19e96908faa254c960c1211647c01561d4"
+  },
+  "history": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/history.rgb565",
+   "sha256": "d51f7f9a8ef4fd2d054540fe6aba7e33d66d3520164f68c42ef08a286e5ed546"
+  },
+  "tides": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/tides.rgb565",
+   "sha256": "5b84d466bc44194ec3bb9c785821513bba8b2773b12cd8f29f244b563ad75574"
+  },
+  "art": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/art.rgb565",
+   "sha256": "71dfa87e24f31333fc83f07fe3146645af9b7a35bb1177e6cb14af728bef981f"
+  }
+ }
+}
