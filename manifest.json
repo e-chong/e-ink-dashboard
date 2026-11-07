@@ -1,0 +1,50 @@
+{
+ "version": 1,
+ "generated": "2026-11-07T04:00:00-08:00",
+ "current": "morning",
+ "order": [
+  "morning"
+ ],
+ "screens": {
+  "morning": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/morning.rgb565",
+   "sha256": "1b4fae2e723317c57ffcd3bbc271037af66039fcb5f51c3f25585415689805f2"
+  },
+  "cocktail": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/cocktail.rgb565",
+   "sha256": "fa3f8fa3405a51c7f5afc8ec3c0eb645deda4b4d19aaa7b4de13595fb784d1d1"
+  },
+  "recipe": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/recipe.rgb565",
+   "sha256": "1d17c1c70791ab20fb281f67071222edb966e50d116bc1c2c7cfbcb85efef3bf"
+  },
+  "news": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/news.rgb565",
+   "sha256": "f94791507741bc08d1cec8d836a77db1e04389296b740aa37402456c426ceed9"
+  },
+  "watchlist": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/watchlist.rgb565",
+   "sha256": "c7d59888c0e87d0c3c76e5fd1f737af7e2cc1c6a8e0b13d3ac8ac43aff7e4876"
+  },
+  "sports": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/sports.rgb565",
+   "sha256": "b3185596422c272e4ffb7298e52a24fa10395eee12083843dfca0735b26cac69"
+  },
+  "sky": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/sky.rgb565",
+   "sha256": "97b23faeb250f86b7113a6b3d0e2c6bc30b9dad4b895590fed4783335b877c95"
+  },
+  "history": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/history.rgb565",
+   "sha256": "74324a192716663c85451907e204e90eab727275a145d15d4f4e14b36b454b23"
+  },
+  "tides": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/tides.rgb565",
+   "sha256": "1c94497c5fd39526f8af053fc4b9e80a1121b221a5fafab914d819ac2daeda97"
+  },
+  "art": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/art.rgb565",
+   "sha256": "4be5c3331645c8b60f64371c5aaa9c17060ab9f18258872c23da13733c35e9eb"
+  }
+ }
+}
