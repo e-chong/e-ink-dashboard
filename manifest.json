@@ -1,0 +1,50 @@
+{
+ "version": 1,
+ "generated": "2026-11-14T06:30:00-08:00",
+ "current": "morning",
+ "order": [
+  "morning"
+ ],
+ "screens": {
+  "morning": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/morning.rgb565",
+   "sha256": "608010342ca67a26d7e4c8fbb02aef339c0f121a2906122dc01b7b8a5867e19c"
+  },
+  "cocktail": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/cocktail.rgb565",
+   "sha256": "9acc33042c98c1c97d0de32b073399618d3d821a46620773041fa9c7c64f4b62"
+  },
+  "recipe": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/recipe.rgb565",
+   "sha256": "f832d1406b8b65304b617a0c0b44aa1ab0679f407b0747d5c1e386d805e9fc9c"
+  },
+  "news": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/news.rgb565",
+   "sha256": "8d3e9e33352c0ef8e9f3ad489821a96c2d3b3d1668a55ca33259b12eb81a604f"
+  },
+  "watchlist": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/watchlist.rgb565",
+   "sha256": "d02f6632a3f7cd9d6a7fc0523cad565fadfdff5e0cc4c147c79fedeb6ecb5d7c"
+  },
+  "sports": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/sports.rgb565",
+   "sha256": "014abdfae2d61123e1d8dd1ca6479098cfc2c8a7b20bbb28aa0c7e6e9a6cdd3a"
+  },
+  "sky": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/sky.rgb565",
+   "sha256": "3a683efb5a333427b5b8843af68fae685bfdd67fd44155a93dbdec219270f125"
+  },
+  "history": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/history.rgb565",
+   "sha256": "f1a37cc58740505757b8c47faef4ff7622f0c2d97f834dd43d85969e977f097c"
+  },
+  "tides": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/tides.rgb565",
+   "sha256": "efaab0177326be8bfccc6466b410daeb7cd0e0cdc424428228753849142ec41c"
+  },
+  "art": {
+   "url": "https://raw.githubusercontent.com/e-chong/e-ink-dashboard/master/art.rgb565",
+   "sha256": "3dabc63a9c05028024752afea28c7d3d9b1c148cbea504d2bde710411b4b23b1"
+  }
+ }
+}
